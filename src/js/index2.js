@@ -54,8 +54,8 @@
 
 // завдання 3.2
 
-let heightCircus = 10;
-const diameterCircus = 4;
+// let heightCircus = 10;
+// const diameterCircus = 4;
 
-const volumCircus = Marh.Pi * heightCircus * diameterCircus;
-console.log("Обьєм циліндру:" * volumCircus, toFixed(2), "Метрів кубічних");
+// const volumCircus = Marh.Pi * heightCircus * diameterCircus;
+// console.log("Обьєм циліндру:" * volumCircus, toFixed(2), "Метрів кубічних");

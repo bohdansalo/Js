@@ -1,4 +1,3 @@
-"use strict";
 // let userName = "Vlad"; //string
 // const counter = 10; //number
 
@@ -62,8 +61,8 @@
 // console.log("Обрано:", name, "ціна за штуку:", price);
 // price = 20000;
 
-const product = "IPhone 15";
-let quantity = 5;
-console.log("на складі є", product, "у кількості", quantity);
-quantity = 10;
-console.log("на складі є", product, "у кількості", quantity);
+// const product = "IPhone 15";
+// let quantity = 5;
+// console.log("на складі є", product, "у кількості", quantity);
+// quantity = 10;
+// console.log("на складі є", product, "у кількості", quantity);
